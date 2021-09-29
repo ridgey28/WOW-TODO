@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(235, 237, 243);
+    height: 100vh;
+}
+.list{
+    padding: 1.5rem;
+}
+.todo-item{
+    padding: 1rem;
+    background-color: #fff;
+    margin: 20px 0;
+}
+.todo-item .completed {
+    text-decoration: line-through;
+}
